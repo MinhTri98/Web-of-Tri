@@ -1,0 +1,148 @@
+/*nav*/
+.navbar .navbar-brand .img{
+    width: 50%;
+}
+.navbar .collapse {
+    margin-left: -200px;
+}
+.navbar .collapse .navbar-nav .nav-item .nav-link {
+    font-size: 17px;
+}
+/*end nav*/
+
+/*banner*/
+.container .padding{
+    margin-left: -128px;
+    margin-right: -128px;
+}
+.banner{
+    background-image: url('../image/banner.png');
+    height: 381px;
+    position: relative;
+    text-align: center;
+}
+.banner .title{
+    position: absolute;
+    bottom: 130px;
+    left: 50px;
+    color: #000077;
+}
+/*end banner*/
+
+/*page introduce*/
+.page .introduce{
+    background-color: black;
+    margin-top: 15px;
+    margin-left: 0px !important; 
+    margin-right: 0px !important; 
+    height: 80px;
+}
+
+.img-intro{
+    padding-top: 10px;
+    width: 230px;
+}
+
+.page .intro{
+    color: #fff;
+    text-align: justify;
+    margin-top: 10px;
+}
+/*end page introduce*/
+
+/*maketing*/
+.marketing{
+    margin-top: 20px;
+    text-align: center;
+}
+.marketing .name{
+    margin-left: 33%; 
+}
+/*end maketing*/
+
+/*card*/
+.card-header{
+    text-align: center;
+    background-color: #333;
+    border-bottom: 1px solid;
+}
+.card-body{
+    text-align: center;
+}
+.card-body .bg-btn{
+    background-color: #009ACD;
+    color: #fff;
+}
+/*end card*/
+
+/*image-action*/
+.img-action{
+    margin-top: 15px;
+    text-align: center;
+}
+.gallery {
+    margin-top: 15px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 352px;
+    margin-right: 15px;
+}
+  
+.gallery:hover {
+    border: 1px solid #777;
+}
+  
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+.border-img{
+    border-bottom: 1px solid;
+}
+/*end image-action*/
+
+/*contact*/
+.contact{
+    margin-top: 15px;
+    text-align: center;
+}
+.mar-contact{
+    margin: 0px !important;
+}
+.pad-contact{
+    padding: 0px !important;
+    margin-left: -45px;
+}
+.contact-advice p{
+    float: left;
+}
+.input-text{
+    float: left;
+    margin-bottom: 10px;
+}
+.btn-contact{
+    float: left;
+    margin-left: 250px;
+    background-color: #009ACD;
+    color: #fff;
+}
+/*end contact*/
+
+/*footer*/
+.footer{
+    background-color: #000055;
+    margin-top: 15px;
+    height: 200px;
+}
+.footer-text{
+    color: #fff;
+    float: left;
+    left: 20px;
+    top: 20px;
+}
+.footer-end{
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+}
+/*end footer*/
